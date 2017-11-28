@@ -134,6 +134,8 @@ html {
 }
 
 .sto0ne {
+   position: relative;
+  top: 14em;
   background-color: #5EBA34;
   font-family: 'Oswald', sans-serif;
   bottom:0;
@@ -255,3 +257,4 @@ header h1 {
 }
 
 }
+
